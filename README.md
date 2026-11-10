@@ -21,6 +21,24 @@ Soy estudiante de Computación en ESPOL y presidente del club NIoT. Me interesa 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+## Proyectos destacados
+
+### Findyp
+
+Proyecto colaborativo de una aplicación multiplataforma para publicar, buscar y recuperar objetos perdidos dentro de comunidades universitarias. Incluye autenticación, reportes, imágenes, filtros y ubicación en mapas.
+
+**Tecnologías:** React Native, Expo, TypeScript y Supabase.
+
+[Ver repositorio](https://github.com/Sam-ai06/Poli-Lost-and-Found)
+
+### Planificador Académico NIoT
+
+Proyecto colaborativo en desarrollo construido con React y Vite para apoyar la organización de actividades académicas.
+
+**Tecnologías:** React, JavaScript y Vite.
+
+[Ver repositorio](https://github.com/Sam-ai06/Planificador-Academico-NIoT)
+
 ## Intereses actuales
 
 - Desarrollo de aplicaciones web y móviles.
