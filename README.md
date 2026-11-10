@@ -49,5 +49,5 @@ Proyecto colaborativo en desarrollo construido con React y Vite para apoyar la o
 
 ## Contacto
 
-- Correo: [ariegavi@espol.edu.ec](mailto:ariegavi@espol.edu.ec)
+- Correo institucional: [ariegavi@espol.edu.ec](mailto:ariegavi@espol.edu.ec)
 - GitHub: [github.com/josh-gavi](https://github.com/josh-gavi)
