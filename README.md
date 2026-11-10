@@ -1,43 +1,59 @@
 # Hola, soy Joshua Mero 👋
 
-Soy estudiante de Computación en ESPOL y presidente del club NIoT. Me interesa construir soluciones que conecten desarrollo web y móvil, Internet de las Cosas e inteligencia artificial para resolver problemas reales.
+<img src="perfil-joshua-mero.jpg" alt="Joshua Mero en un evento de tecnología" width="280">
+
+Soy estudiante de Computación en ESPOL, presidente del club NIoT y ayudante de docencia. Me interesa construir soluciones que conecten desarrollo web y móvil, Internet de las Cosas e inteligencia artificial para resolver problemas reales.
+
+🌐 **Portafolio desplegado:** [josh-gavi.github.io/josh-gavi](https://josh-gavi.github.io/josh-gavi/)
 
 ## Sobre mí
 
 - Desarrollo aplicaciones web y móviles con enfoque en experiencias claras y funcionales.
 - Trabajo con proyectos de IoT utilizando ESP32 y MicroPython.
-- Me interesa el análisis de algoritmos, la ciencia de datos y el software de código abierto.
+- Me interesan el análisis de algoritmos, la ciencia de datos y el software de código abierto.
 - Disfruto colaborar en equipos universitarios y documentar el proceso de desarrollo.
 
-## Tecnologías
+## Experiencia académica
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Ayudante de docencia · ESPOL
+
+Apoyo a estudiantes en la comprensión de conceptos, resolución de ejercicios y preparación académica en **Álgebra Lineal** y **Matemáticas Discretas**, promoviendo explicaciones paso a paso y un aprendizaje accesible.
+
+## Tecnologías y aplicación
+
+| Tecnologías | Aplicación en mis proyectos |
+| --- | --- |
+| HTML, CSS y JavaScript | Estructura, diseño adaptable e interacciones del sitio del Museo Presley Norton y de este portafolio. |
+| React, Vite y Material UI | Construcción de interfaces web por componentes y elementos visuales reutilizables. |
+| TypeScript | Tipado de componentes, propiedades y datos para reducir errores en Findyp y Bizly. |
+| React Native y Expo | Desarrollo y prueba de interfaces móviles multiplataforma. |
+| Supabase | Autenticación, base de datos y almacenamiento de información e imágenes. |
+| Git, GitHub y GitHub Pages | Control de versiones, colaboración, documentación y despliegue del portafolio. |
+| Python y MicroPython | Lógica, automatización, análisis de datos y programación de prototipos con ESP32. |
+| ESP32 e IoT | Integración de sensores, actuadores y comunicaciones en sistemas embebidos. |
 
 ## Proyectos destacados
 
 ### Findyp
 
-Proyecto colaborativo de una aplicación multiplataforma para publicar, buscar y recuperar objetos perdidos dentro de comunidades universitarias. Incluye autenticación, reportes, imágenes, filtros y ubicación en mapas.
+Aplicación multiplataforma para publicar, buscar y recuperar objetos perdidos dentro de comunidades universitarias. Incluye autenticación, reportes, imágenes, filtros y mapas.
 
-**Tecnologías:** React Native, Expo, TypeScript y Supabase.
-
+**Tecnologías:** React Native, Expo, TypeScript y Supabase.  
 [Ver repositorio](https://github.com/Sam-ai06/Poli-Lost-and-Found)
 
-### Planificador Académico NIoT
+### Museo Presley Norton
 
-Proyecto colaborativo en desarrollo construido con React y Vite para apoyar la organización de actividades académicas.
+Sitio web creado para fomentar la interacción de la comunidad con actividades culturales como las que se realizan en el Museo Presley Norton.
 
-**Tecnologías:** React, JavaScript y Vite.
+**Tecnologías:** HTML, CSS y JavaScript.  
+[Ver repositorio](https://github.com/josh-gavi/MuseoPresleyNorton)
 
-[Ver repositorio](https://github.com/Sam-ai06/Planificador-Academico-NIoT)
+### Bizly
+
+Aplicación móvil y web pensada para estudiantes emprendedores, con una base personalizable para organizar y presentar sus negocios o servicios.
+
+**Tecnologías:** TypeScript, desarrollo web y desarrollo móvil.  
+[Ver repositorio privado](https://github.com/josh-gavi/Bizly)
 
 ## Intereses actuales
 
@@ -47,7 +63,8 @@ Proyecto colaborativo en desarrollo construido con React y Vite para apoyar la o
 - Diseño y análisis de algoritmos.
 - Proyectos universitarios de código abierto.
 
-## Contacto
+## Contacto profesional
 
 - Correo institucional: [ariegavi@espol.edu.ec](mailto:ariegavi@espol.edu.ec)
-- GitHub: [github.com/josh-gavi](https://github.com/josh-gavi)
+- GitHub: [josh-gavi](https://github.com/josh-gavi)
+
