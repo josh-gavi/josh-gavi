@@ -46,3 +46,8 @@ Proyecto colaborativo en desarrollo construido con React y Vite para apoyar la o
 - Inteligencia artificial y ciencia de datos.
 - Diseño y análisis de algoritmos.
 - Proyectos universitarios de código abierto.
+
+## Contacto
+
+- Correo: [ariegavi@espol.edu.ec](mailto:ariegavi@espol.edu.ec)
+- GitHub: [github.com/josh-gavi](https://github.com/josh-gavi)
